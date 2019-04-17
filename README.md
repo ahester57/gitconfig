@@ -27,3 +27,6 @@ git lg
 
 ```
 
+`git lg2` is a more spread out version of `git lg`.
+
+`git adog` is a novelty.
